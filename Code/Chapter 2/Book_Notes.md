@@ -1,3 +1,5 @@
+[Checkout the code that goes along with these notes](https://github.com/matthew9510/MinecraftAndPython/tree/master/Code/Chapter%202)
+
 A **program** is a set of instructions that makes your computer do a specific task or tasks
 
 **Variables** can store numbers, words, and even complete sentences
