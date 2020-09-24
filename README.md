@@ -3,6 +3,7 @@
 I am excited for this journey and believe it will help me become closer to being a master of Python.
 
 Through this journey I will be reading and working along a book called **[Learn To Program With Minecraft by Craig Richardson](https://nostarch.com/programwithminecraft)**
+- [Free reference to book](http://37.131.70.41/New%20Dashboard/Books/Learn%20to%20Program%20with%20Minecraft.pdf)
 
 #### Overview
 - Chapter 1 focused on installing Minecraft along with the Minecraft api 
